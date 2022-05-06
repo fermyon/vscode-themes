@@ -1,0 +1,35 @@
+{
+    "name": "vscode-themes",
+    "displayName": "VSCode Themes",
+    "description": "VSCode themes, with love from Fermyon",
+    "version": "0.0.1",
+    "contributors": [
+        "Matt Fisher <matt.fisher@fermyon.com>"
+    ],
+    "publisher": "fermyon",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fermyon/vscode-themes.git"
+    },
+    "icon": "images/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fermyon Light",
+                "uiTheme": "vs",
+                "path": "./themes/fermyon-light.json"
+            },
+            {
+                "label": "Fermyon Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fermyon-dark.json"
+            }
+        ]
+    }
+}
