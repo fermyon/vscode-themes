@@ -2,6 +2,11 @@
 
 VSCode themes, made with love from Fermyon.
 
+## Screenshots
+
+![light mode](images/light-mode.jpg)
+![dark mode](images/dark-mode.jpg)
+
 ## Installation
 
 ```
