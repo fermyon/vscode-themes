@@ -2,13 +2,10 @@
 	"$schema": "vscode://schemas/color-theme",
 	"name": "Fermyon Dark",
 	"colors": {
-		"editor.background": "#0D203F",
 		"editor.foreground": "#34E8BD",
 		"activityBarBadge.background": "#BEA7E5",
 		"activityBarBadge.foreground": "#0D203F",
 		"sideBarTitle.foreground": "#34E8BD",
-		"activityBar.background": "#0D203F",
-		"sideBar.background": "#0D203F"
 	},
 	"tokenColors": [
 		{
